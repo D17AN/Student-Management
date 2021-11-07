@@ -1,6 +1,7 @@
 # Student-Management
 Console, Command Based Application - Python
- Bank Account
+
+Bank Account
 Each transaction is stored in the application using the following elements: day (of the month in which the transaction was made, between 1 and 30 for simplicity), amount of money (transferred, positive integer), type (in - into the account, out – from the account), and description.
 (A) Add transaction
 add <value> <type> <description>
